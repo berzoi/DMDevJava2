@@ -1,4 +1,4 @@
-package lesson25;
+package lesson25.lesson253;
 
 public class SimpleThread extends Thread {
 
